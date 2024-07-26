@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm 00A44</h1>
+<h1 align="center">Welcome to Good Winter Gathering Check</h1>
+<h1 align="center">良い冬の集まりチェック</h1>
 <h3 align="center">I am here for the advancement of the Latin language and the Linux operating system.  </h3>
 <h3>I currenty work on</h3>
 <p align="left">
