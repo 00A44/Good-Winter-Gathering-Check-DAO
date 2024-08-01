@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to Good Winter Gathering Check</h1>
 <h1 align="center">良い冬の集まりチェック</h1>
 <h3 align="center">Good Winter Gathering Check is a future Decentralized Autonomous Organization (DOA) that will benefit creatives tremendously. Any and all are welcome and the DOA functions much the way a guild does. I hope to have employment and payroll through cryptocurrencies.</h3>
-<h3>I currenty work on</h3>
 <p align="left">
 
 <h3 align="left">Current Project</h3>
